@@ -1,1 +1,4 @@
 picamera
+opencv-python
+numpy
+matplotlib
